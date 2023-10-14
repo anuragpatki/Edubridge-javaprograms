@@ -17,17 +17,52 @@
   Area of Square.
 
 # Sololearn :- [open](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/dc263738-a472-4020-b110-c69e184bdc1e.png)
-
+  Introduction to java certificate.
+  
 # Lab 6 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%206%20-%20Area%20of%20Circle)
   Area of Circle.
 
 # Lab 7 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%207%20-%20Student%20data%20input)
-  Student data input
+  Student data input.
 
 # Lab 8 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%208%20-%20Employee%20Encapsulation)
-  Employee Encapsulation
+  Employee Encapsulation.
 
 # Lab 9 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%209%20-%20Different%20type%20of%20data%20inputs)
-  Different type of data inputs
+  Different type of data inputs.
 
-# Lab 10 :- [execute]()
+# Lab 10 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2010%20-%20Electricity%20bill)
+  Electricity Bill.
+
+# Lab 11 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2011%20-%20Electricity%20bill%20more%20precised)
+  Electricity Bill more precised.
+
+# Lab 12 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2012%20-%20Gross%20Salary)
+  Gross Salary.
+
+# Lab 13 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2013%20-%20Triangle%20validation)
+  Triangle Validation.
+  
+# Lab 14 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2014%20-%20Triangle%20sides%20validation)
+  Triangle side validation.
+
+# Lab 15 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2015%20-%20Triangle%20type)
+  Type of triangle.
+
+# Lab 16 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2016%20-%20Profit%20Loss)
+  Profit Loss.
+
+# Lab 17 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2017%20-%20Switch%20case)
+  Switch case.
+
+# Lab 18 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2018%20-%20Switch%20Even%20Odd)
+  Switch Even Odd. 
+
+# Lab 19 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2019%20-%20Switch%20vowels)
+  Switch Vowels.
+
+# Lab 20 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2020%20-%20Switch%20menu)
+  Switch Menu.
+
+# Lab 21 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Lab%2021%20-%20Area%20of%20figures)
+  Area of different Figures.
