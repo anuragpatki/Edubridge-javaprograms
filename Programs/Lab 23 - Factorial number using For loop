@@ -1,0 +1,55 @@
+package com.loops;
+
+import java.util.Scanner;
+
+public class Fact1 {
+
+	public static void main(String[] args) {
+		//1*2=2
+		int num;
+		double fact=1;
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter any Number = ");
+		num = sc.nextInt();
+		for(int i = num ; i >= 1 ; i--) {
+			fact = fact*i;
+			
+		}
+		System.out.print(fact);
+		sc.close();
+	}
+
+}
+
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+
+package com.loops;
+
+import java.util.Scanner;
+
+public class Factorial {
+
+	public static void main(String[] args) {
+		//1*2=2
+		int num;
+		double fact=1;
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter any Number = ");
+		num = sc.nextInt();
+		for(int i = num ; i >= 1 ; i--) {
+			fact = fact*i;
+			
+		} 
+		for (int j = 1;j<=num; j++)
+			if(j<num)
+				System.out.print(j + "x");
+			else
+				System.out.print(j);
+				
+		System.out.print(" = "+fact);
+		sc.close();
+	}
+
+}
