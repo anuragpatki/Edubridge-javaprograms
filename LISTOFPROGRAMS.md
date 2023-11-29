@@ -4,7 +4,7 @@
 # Lab 1 :- [code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world) , [run code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world)
   Hello world program.
 
-# Lab 2 :- [code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition) [run code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition)
+# Lab 2 :- [code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition)  [run code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition)
   Addition program.
 
 # Lab 3 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%203%20-%20Area%20of%20Triangle)
