@@ -16,7 +16,7 @@
 # Lab 5 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%205%20-%20Area%20of%20Square)
   Area of Square.
 
-# Sololearn :- [open](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/dc263738-a472-4020-b110-c69e184bdc1e.png)
+# Sololearn :- [open](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Certifications/dc263738-a472-4020-b110-c69e184bdc1e.png)
   Introduction to java certificate.
   
 # Lab 6 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%206%20-%20Area%20of%20Circle)
