@@ -66,3 +66,18 @@
 
 # Lab 21 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2021%20-%20Area%20of%20figures)
   Area of different Figures.
+
+# Lab 22 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2022%20-%20Simple%20while%20Loop)
+  Simple While Loop.
+
+# Lab 23 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2023%20-%20Factorial%20number%20using%20For%20loop)
+  Factorial number using for loop.
+
+# Lab 24 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2024%20-%20Prime%20number%20using%20for%20loop)
+  Prime number using for loop.
+
+# Lab 25 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2025%20-%20Reverse%20prime%20numbers)
+  Reverse prime numbers
+
+# Lab 26 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2026%20-%20Prime%20numbers%20upto%20100)
+  Prime numbers upto 100
