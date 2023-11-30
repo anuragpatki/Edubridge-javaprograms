@@ -7,7 +7,7 @@
 
 ## List of Programs :-
 
-### Lab 1 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world)
+### Lab 1 :- [Run Code](https://onecompiler.com/java/3zv2ju3gy) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world)
   Hello world program.
 
 ### Lab 2 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%202%20-%20addition)
