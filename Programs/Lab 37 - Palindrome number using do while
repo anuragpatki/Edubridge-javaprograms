@@ -1,0 +1,28 @@
+package com.dowhile;
+
+import java.util.Scanner;
+
+public class DoPali {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int num,a,rev=0,x;
+		System.out.print("Enter any number = ");
+		num = sc.nextInt();
+				
+		x = num;
+		do {
+			a = num%10;
+			rev = rev*10+a;
+			num=num/10;
+		}while(num!=0);
+		System.out.println("Reverse = "+rev);
+		
+		if(rev == x) 
+			System.out.println(x+" is a palindrome number");
+		else
+			System.out.println(x+" is not a palindrome number");
+
+	}
+
+}
