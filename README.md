@@ -1,4 +1,10 @@
 # College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara
+## Certifications :-
+
+### Sololearn :- [Certificate](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Certifications/dc263738-a472-4020-b110-c69e184bdc1e.png)
+  Introduction to java certificate.
+
+
 ## List of Programs :-
 
 ### Lab 1 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%201%20-%20Hello%20world)
@@ -15,9 +21,6 @@
 
 ### Lab 5 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%205%20-%20Area%20of%20Square) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%205%20-%20Area%20of%20Square)
   Area of Square.
-
-### Sololearn :- [Certificate](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Certifications/dc263738-a472-4020-b110-c69e184bdc1e.png)
-  Introduction to java certificate.
   
 ### Lab 6 :- [Run Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%206%20-%20Area%20of%20Circle) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%206%20-%20Area%20of%20Circle)
   Area of Circle.
@@ -81,3 +84,42 @@
 
 ### Lab 26 :- [execute](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2026%20-%20Prime%20numbers%20upto%20100)
   Prime numbers upto 100
+
+### Lab 27 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2027%20-%20Prime%20numbers%20upto%20n) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2027%20-%20Prime%20numbers%20upto%20n)
+  Prime numbers upto n
+
+### Lab 28 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2028%20-%20Armstrong%20number%20checker) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2028%20-%20Armstrong%20number%20checker)
+  Armstrong number checker
+
+### Lab 29 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2029%20-%20Armstrong%20number%20from%201%20to%201000) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2029%20-%20Armstrong%20number%20from%201%20to%201000)
+  Armstrong number from 1 to 1000
+
+### Lab 30 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2030%20-%20Display%20Tables) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2030%20-%20Display%20Tables)
+  Display Tables
+
+### Lab 31 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2031%20-%20Reverse%20number) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2031%20-%20Reverse%20number)
+  Reverse number
+
+### Lab 32 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2032%20-%20Palindrome%20number) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2032%20-%20Palindrome%20number)
+  Palindrome number
+
+### Lab 33 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2033%20-%20Palindrome%20numbers%20from%201%20to%20100) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2033%20-%20Palindrome%20numbers%20from%201%20to%20100)
+  Palindrome numbers from 1 to 100
+
+### Lab 34 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2034%20-%20Simple%20Do%20while%20loop) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2034%20-%20Simple%20Do%20while%20loop)
+  Simple Do while loop
+
+### Lab 35 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2035%20-%20Factorial%20number%20using%20do%20while) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2035%20-%20Factorial%20number%20using%20do%20while)
+  Factorial number using do while
+
+### Lab 36 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2036%20-%20Reverse%20number%20using%20do%20while) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2036%20-%20Reverse%20number%20using%20do%20while)
+  Reverse number using do while
+
+### Lab 37 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2037%20-%20Palindrome%20number%20using%20do%20while) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2037%20-%20Palindrome%20number%20using%20do%20while)
+  Palindrome number using do while
+
+### Lab 38 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2038%20-%20Prime%20number%20using%20do%20while) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2038%20-%20Prime%20number%20using%20do%20while)
+  Prime number using do while
+
+### Lab 39 :- [Run Code](https://github1s.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2039%20-%20Armstrong%20number%20using%20do%20while) , [Code](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Programs/Lab%2039%20-%20Armstrong%20number%20using%20do%20while)
+  Armstrong number using do while
