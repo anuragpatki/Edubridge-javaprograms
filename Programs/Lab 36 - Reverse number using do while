@@ -1,0 +1,21 @@
+package com.dowhile;
+
+import java.util.Scanner;
+
+public class DoReverse {
+
+	public static void main(String[] args) {
+		int num,rev=0,a;
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter any number = ");
+		num = sc.nextInt();
+		
+		do {
+			a = num%10;
+			rev = rev*10+a;
+			num=num/10;
+		}while(num!=0);
+		System.out.print("Reverse = "+rev);
+	}
+
+}
