@@ -1,4 +1,4 @@
-# College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara
+# College_connect_Capgemini_Certified_10427_KBPCoE_Satara
 ## Certifications :-
 
 ### Sololearn :- [Certificate](https://github.com/anuragpatki/College_connect_Capgemini_Certified_10427_Githublink_KBPCoE_Satara/blob/main/Certifications/dc263738-a472-4020-b110-c69e184bdc1e.png)
