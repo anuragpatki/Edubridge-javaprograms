@@ -33,7 +33,7 @@ During the 4-month training period, I engaged in a variety of activities and ass
 In addition to technical skills, the program also focused on developing aptitude and communication skills to align with industry requirements. This holistic approach ensures participants are well-prepared for job opportunities in the full-stack development domain. I have registered on coding platforms HackerRank and HackerEarth also and developed my analytical and logical thinking skills.
 
 ## Certificates 📜
-I am currently working on the Certified Java Full Stack Professional program, and the certificates gained during the overall program can be found in the `/certificates` directory.
+I am currently working on the Certified Java Full Stack Professional program, and the certificates gained during the overall program can be found in the `/Certifications` directory.
 
 - Sololearn Introduction to Java 🎉
 
